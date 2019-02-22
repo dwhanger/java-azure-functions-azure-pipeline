@@ -6,4 +6,5 @@
 
 ### The file azure-pipelines.yaml is the yaml pipeline definition of the sample application
 
+
 ### The folder blog-post-artifacts has images used in the blog post
